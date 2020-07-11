@@ -1,0 +1,9 @@
+Arreglo completo con el costo para cada vértice
+costo[vertice] = precio mas barato alcanzable desde un vertice generador incluido el mismo
+ID vertice	Costo minimo		Camino a recorrer
+a  			  2 				['a']     
+b  			  3 				['b']     
+c  			  8 				['a', 'c']
+d  			  4 				['b', 'd']
+e  			  8 				['b', 'd', 'e']
+f  			  9 				['b', 'd', 'f']

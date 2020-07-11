@@ -1,0 +1,4 @@
+Nmero a calcular
+6
+Numeros candidatos
+1 3 4

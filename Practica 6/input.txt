@@ -1,0 +1,8 @@
+Capacidad:
+602
+Numero de articulos:
+10 20 30 40 50
+Peso de articulos:
+2 4 20 12 8
+Ganancia de articulos:
+6 9 27 1 90
